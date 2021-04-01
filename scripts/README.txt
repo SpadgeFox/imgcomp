@@ -23,7 +23,7 @@ usage: tlapse.py [-h] [-o OUTPUTFILE] [-p PATHNAME] [-k] [-n]
 Make timelapses with images from imgcomp using ffmpeg.
 
 optional arguments:
-  -h, --help            show this help message and exit
+  -h, --help            Show this help message and exit.
   -o OUTPUTFILE, --outputfile OUTPUTFILE
                         Output file name.
   -p PATHNAME, --pathname PATHNAME
